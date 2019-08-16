@@ -1,6 +1,4 @@
-﻿using Microsoft.Win32;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
+﻿using Microsoft.Win32; 
 using System;
 using System.Collections.Generic;
 using System.IO;
